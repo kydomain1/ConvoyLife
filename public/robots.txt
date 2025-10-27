@@ -1,0 +1,14 @@
+# ConvoyLife Robots.txt
+
+User-agent: *
+Allow: /
+
+# Disallow admin pages if any
+# Disallow: /admin/
+
+# Sitemap location
+Sitemap: https://www.convoylife.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+

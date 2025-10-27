@@ -1,0 +1,28 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="30" fill="url(#gradient1)"/>
+  
+  <!-- Decorative Ring -->
+  <circle cx="32" cy="32" r="26" stroke="url(#gradient2)" stroke-width="2" fill="none"/>
+  
+  <!-- Logo Mark - Stylized C and L -->
+  <path d="M32 16L37 26H27L32 16Z M22 32H42 M26 40L32 34L38 40" 
+        stroke="white" 
+        stroke-width="3" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+  
+  <!-- Gradient Definitions -->
+  <defs>
+    <linearGradient id="gradient1" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E8C4C4"/>
+      <stop offset="50%" stop-color="#D4C5D8"/>
+      <stop offset="100%" stop-color="#C8D5B9"/>
+    </linearGradient>
+    <linearGradient id="gradient2" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E5B8B8"/>
+      <stop offset="100%" stop-color="#B8C9D8"/>
+    </linearGradient>
+  </defs>
+</svg>
+
